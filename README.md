@@ -38,3 +38,61 @@ struct user{
  int age;
  float weight;
  };
+ 
+ 
+ 
+ .top_header{
+	margin:17px;
+	padding:0px;
+	background-color:#d1cacc;
+    border:2px solid black;
+	color:solid green;
+	font-size:20px;
+}
+.navigation_bar{
+	font : bold 14px tahoma;
+	color:#ffffff;
+	
+}
+.top_section{
+	margin:10 px;
+	padding: 7px;
+	border-bottom:dotted black;
+	font-size:20px;
+}
+.the_footer{
+	border-top: solid black;
+	text-align: center;
+}
+.img1{
+	padding-bottom:20px;
+	width: 299px;
+	height: 148px;
+	padding-top: -1x;
+	padding-left: 200px;
+	padding-right: 200px;
+	
+}
+.navigation_bar li{
+	display : inline-block;
+	list-style : none;
+    margin:-10px;	
+	padding:8px 60px 8px 60px;
+	font:24px bold;
+}
+.png_file{
+	width:550px;
+	height:160px;
+    padding-left:300px;
+	padding-right:300px;
+}
+.websitename{
+	text-align: center;
+}
+.torres{
+	padding: 30px;
+}
+.headline{
+	padding-left: 30px;
+	font: 25px bold;
+}
